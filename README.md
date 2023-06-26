@@ -5,9 +5,9 @@ The event featured 5 Labs, each with exercises and tutorial content to get one s
 
 The five labs include:\\
 (Lab 1: Intro to Dynamic Circuits)[https://github.com/s-aldaihan/IBM-Quantum-Challenge-2023/blob/main/lab1.ipynb]\\
-Lab 2: Quantum Teleportation
-Lab 3: Iterative Phase Estimation
-Lab 4: Quantum Error Correction
-Lab 5: Using a 127-qubit System
+(Lab 2: Quantum Teleportation) [https://github.com/s-aldaihan/IBM-Quantum-Challenge-2023/blob/main/lab2.ipynb]\\
+(Lab 3: Iterative Phase Estimation) [https://github.com/s-aldaihan/IBM-Quantum-Challenge-2023/blob/main/lab3.ipynb]\\
+(Lab 4: Quantum Error Correction)[https://github.com/s-aldaihan/IBM-Quantum-Challenge-2023/blob/main/lab4.ipynb]\\
+(Lab 5: Using a 127-qubit System) [https://github.com/s-aldaihan/IBM-Quantum-Challenge-2023/blob/main/lab5.ipynb]\\
 
  
