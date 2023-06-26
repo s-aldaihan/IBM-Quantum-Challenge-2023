@@ -11,8 +11,8 @@ The five labs include:\
 [Lab 5: Using a 127-qubit System](https://github.com/s-aldaihan/IBM-Quantum-Challenge-2023/blob/main/lab5.ipynb)
 
 The solutions are listed below:\ 
-[Lab 1 Solution]
-[Lab 2 Solution]
-[Lab 3 Solution]
-[Lab 4 Solution]
-[Lab 5 Solution]
+[Lab 1 Solution](https://github.com/s-aldaihan/IBM-Quantum-Challenge-2023/blob/main/lab1-sol.ipynb)\
+[Lab 2 Solution](https://github.com/s-aldaihan/IBM-Quantum-Challenge-2023/blob/main/lab2-sol.ipynb)\
+[Lab 3 Solution](https://github.com/s-aldaihan/IBM-Quantum-Challenge-2023/blob/main/lab3-sol.ipynb)\
+[Lab 4 Solution](https://github.com/s-aldaihan/IBM-Quantum-Challenge-2023/blob/main/lab4-sol.ipynb)\
+
