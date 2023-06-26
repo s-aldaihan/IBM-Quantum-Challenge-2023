@@ -8,6 +8,6 @@ The five labs include:\
 [Lab 2: Quantum Teleportation](https://github.com/s-aldaihan/IBM-Quantum-Challenge-2023/blob/main/lab2.ipynb)\
 [Lab 3: Iterative Phase Estimation](https://github.com/s-aldaihan/IBM-Quantum-Challenge-2023/blob/main/lab3.ipynb)\
 [Lab 4: Quantum Error Correction](https://github.com/s-aldaihan/IBM-Quantum-Challenge-2023/blob/main/lab4.ipynb)\
-[Lab 5: Using a 127-qubit System](https://github.com/s-aldaihan/IBM-Quantum-Challenge-2023/blob/main/lab5.ipynb)\
+[Lab 5: Using a 127-qubit System](https://github.com/s-aldaihan/IBM-Quantum-Challenge-2023/blob/main/lab5.ipynb)
 
  
