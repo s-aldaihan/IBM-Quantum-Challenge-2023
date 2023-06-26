@@ -10,7 +10,8 @@ The five labs include:\
 [Lab 4: Quantum Error Correction](https://github.com/s-aldaihan/IBM-Quantum-Challenge-2023/blob/main/lab4.ipynb)\
 [Lab 5: Using a 127-qubit System](https://github.com/s-aldaihan/IBM-Quantum-Challenge-2023/blob/main/lab5.ipynb)
 
-The solutions are listed below:\\ 
+The solutions are listed below:\
+
 [Lab 1 Solution](https://github.com/s-aldaihan/IBM-Quantum-Challenge-2023/blob/main/lab1-sol.ipynb)\
 [Lab 2 Solution](https://github.com/s-aldaihan/IBM-Quantum-Challenge-2023/blob/main/lab2-sol.ipynb)\
 [Lab 3 Solution](https://github.com/s-aldaihan/IBM-Quantum-Challenge-2023/blob/main/lab3-sol.ipynb)\
