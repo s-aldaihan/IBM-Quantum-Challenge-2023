@@ -14,5 +14,5 @@ The solutions are listed below:\
 [Lab 1 Solution](https://github.com/s-aldaihan/IBM-Quantum-Challenge-2023/blob/main/lab1-sol.ipynb)\
 [Lab 2 Solution](https://github.com/s-aldaihan/IBM-Quantum-Challenge-2023/blob/main/lab2-sol.ipynb)\
 [Lab 3 Solution](https://github.com/s-aldaihan/IBM-Quantum-Challenge-2023/blob/main/lab3-sol.ipynb)\
-[Lab 4 Solution](https://github.com/s-aldaihan/IBM-Quantum-Challenge-2023/blob/main/lab4-sol.ipynb)\
+[Lab 4 Solution](https://github.com/s-aldaihan/IBM-Quantum-Challenge-2023/blob/main/lab4-sol.ipynb)
 
